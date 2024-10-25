@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">30 Days of Basketball Training</string>
+    <string name="day1">Day1: Dribbling Basics - Practice dribbling with both hands, focus on low and controlled dribbles.</string>
+    <string name="day2">Day2: Shooting Fundamentals - Work on your shooting form; start close to the basket and gradually move back.</string>
+    <string name="day3">Day3: Passing Drills - Practice chest passes, bounce passes, and overhead passes with a partner or against a wall.</string>
+    <string name="day4">Day4: Defensive Stance - Work on maintaining a low and balanced defensive stance.</string>
+    <string name="day5">Day5: Layups - Practice both right-hand and left-hand layups from different angles.</string>
+    <string name="day6">Day6: Footwork - Work on pivoting, jump stops, and quick movements without traveling.</string>
+    <string name="day7">Day7: Free Throws - Spend the day perfecting your free-throw shooting technique.</string>
+    <string name="day8">Day8: Agility Drills - Ladder drills and cone drills to improve quickness and agility.</string>
+    <string name="day9">Day9: Rebounding - Practice boxing out and timing your jumps to grab rebounds.</string>
+    <string name="day10">Day10: Ball Handling - Advanced dribbling moves like crossovers, behind-the-back, and spin moves.</string>
+    <string name="day11">Day11: Shooting Off the Dribble - Work on shooting after dribbling; focus on balance and quick release.</string>
+    <string name="day12">Day12: Conditioning - Sprints, shuttle runs, and endurance drills to build stamina</string>
+    <string name="day13">Day13: Defensive Drills - Practice closeouts, shot contests, and defensive slides</string>
+    <string name="day14">Day14: Mid-Range Shooting - Focus on jump shots from mid-range areas.</string>
+    <string name="day15">Day15: Three-Point Shooting - Move to the three-point line and practice shooting from different spots.</string>
+    <string name="day16">Day16: Passing Under Pressure - Practice making accurate passes while being closely guarded.</string>
+    <string name="day17">Day17: Offensive Moves - Work on driving to the basket, spin moves, and step-backs.</string>
+    <string name="day18">Day18: Court Awareness - Play some 1-on-1 or 3-on-3 games to enhance your court vision.</string>
+    <string name="day19">Day19: Weak Hand - Dedicate the day to improving your non-dominant hand skills.</string>
+    <string name="day20">Day20: Shooting Consistency - Focus on maintaining consistent form and release on your shots.</string>
+    <string name="day21">Day21: Defensive Awareness - Work on reading the offense and anticipating their moves.</string>
+    <string name="day22">Day22: Pick-and-Roll - Practice setting screens and running the pick-and-roll effectively.</string>
+    <string name="day23">Day23: Fast Break - Work on pushing the ball quickly up the court and finishing at the rim.</string>
+    <string name="day24">Day24: Off-Ball Movement - Practice moving without the ball and creating scoring opportunities.</string>
+    <string name="day25">Day25: Shooting Under Pressure - Simulate game scenarios and practice shooting with defenders.</string>
+    <string name="day26">Day26: Post Moves - Work on scoring moves in the post like hooks, drop steps, and up-and-under.</string>
+    <string name="day27">Day27: Play making - Focus on creating scoring opportunities for your teammates.</string>
+    <string name="day28">Day28: Defensive Intensity - High-energy defensive drills and full-court press practice.</string>
+    <string name="day29">Day29: Game Simulation - Play a full game to incorporate all the skills you’ve worked on.</string>
+    <string name="day30">Day30: Review and Reflect - Evaluate your progress, identify areas for improvement, and set new goals.</string>
+</resources>
